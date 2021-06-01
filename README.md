@@ -1,6 +1,6 @@
 UMA REFLEXÃO DE VIDA!
 
-Bonito é melhor que feio.
+Bonito é melhor que feio.\n
 Explícito é melhor que implícito.
 Simples é melhor que complexo.
 Complexo é melhor que complicado.
